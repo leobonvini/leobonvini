@@ -3,6 +3,7 @@
 - 💻 Desenvolvimento Back-end
 - 🎓 Universidade Federal Fluminense
 - 😄 Pronomes: ele/dele
+- 📕 PT-BR/ EN-US
 ##
 
 <div align="center">
